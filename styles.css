@@ -1,0 +1,20 @@
+* {
+    background-color: rgb(45, 122, 194);
+}
+
+button {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(126, 42, 42);
+}
+
+.calculator {
+    height: 50dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calutable {
+    background-color: rgb(0, 0, 0);
+}
